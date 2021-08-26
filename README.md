@@ -1,2 +1,2 @@
 # git_test
-This is a test of Git from The Odin Project
+This is Kim's first git project (on The Odin Project)!
